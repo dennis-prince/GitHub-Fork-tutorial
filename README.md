@@ -31,7 +31,7 @@ Fork this tutorial and add your name to the README.md
 
 ### Dennis Otieno.
 
-* BSc Microbiology  
+* BSc in Microbiology  
 
 ### Collins Malii Wachira
 
